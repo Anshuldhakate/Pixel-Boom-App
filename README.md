@@ -3,47 +3,45 @@
 ### Deployment link- 
 https://tiny-beijinho-1264a4.netlify.app
 
-This project is a responsive website featuring a dynamic navbar, image grid, info section, comments section, and footer. It has been built using HTML and CSS with a focus on modern design and mobile responsiveness.
 
+**Pixel Boom App** is a modern, responsive web application designed to showcase high-quality images in an interactive and visually appealing layout. The app includes various sections such as a dynamic navbar, image grid gallery, information, comments, and a footer, all tailored for seamless user experience across devices.
 
-<img width="944" alt="Screenshot 2024-11-13 211404" src="https://github.com/user-attachments/assets/835c6412-3e8b-408f-9d8f-cc7826e60d02">
+<img width="944" alt="Screenshot 2024-11-13 211404" src="https://github.com/user-attachments/assets/6df9d592-da20-4751-b49b-e89371f8697a">
+
 
 ## Features
 
-- **Responsive Navbar**: Includes a logo, menu links, feedback button, and cart button. 
-- **Image Grid Section**: A responsive grid layout that adapts to different screen sizes.
-- **Info Section**: Highlights features and other important details.
-- **Comments Section**: Allows users to add and view comments.
-- **Footer**: Includes links, a newsletter subscription form, and social media icons.
-  
+- **Dynamic Navbar**: Contains a logo, navigation links, feedback button, and a cart button with custom styles.
+- **Image Grid Gallery**: Displays images in a flexible, responsive grid layout.
+- **Info Section**: Highlights key features and details in an organized manner.
+- **Comments Section**: Users can read and submit comments, improving engagement.
+- **Footer**: Includes essential links, a newsletter subscription form, and social media icons.
+
 ## Technologies Used
 
-- **HTML**
-- **CSS**
-- **Media Queries** for responsive design
+- **HTML5**: Structure of the web pages.
+- **CSS3**: Styling and responsive design.
+- **React**: To enhance dynamic functionality.
+- **Media Queries**: For mobile responsiveness.
 
 ## Installation and Usage
 
+To run the Pixel Boom App locally, follow these steps:
+
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/your-username/pixel-boom-app.git
     ```
 
-2. Open the project folder:
+2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd pixel-boom-app
     ```
 
-3. Open `index.html` in your browser to view the website.
-
-## Folder Structure
-
-```plaintext
-├── index.html
-├── styles
-│   └── style.css
-├── assets
-│   ├── images
-│   └── icons
-└── README.md
-
+3. If using a local server:
+    - Open `index.html` in your browser.
+    - For React setup, run:
+      ```bash
+      npm install
+      npm start
+      ```
