@@ -6,7 +6,8 @@ https://tiny-beijinho-1264a4.netlify.app
 
 **Pixel Boom App** is a modern, responsive web application designed to showcase high-quality images in an interactive and visually appealing layout. The app includes various sections such as a dynamic navbar, image grid gallery, information, comments, and a footer, all tailored for seamless user experience across devices.
 
-<img width="944" alt="Screenshot 2024-11-13 211404" src="https://github.com/user-attachments/assets/6df9d592-da20-4751-b49b-e89371f8697a">
+
+<img width="942" alt="Screenshot 2024-11-13 211404" src="https://github.com/user-attachments/assets/f3c6a5dc-afb9-4ec4-871c-6b382b7fa472">
 
 
 ## Features
